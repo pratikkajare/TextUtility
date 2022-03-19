@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.d95eaa75.css","mappings":"AAAA,KACE,iBACF,CAGA,KAEE,aAAgB,CADhB,gCAAwB,CAAxB,wBAGF,CACA,OACE,WACF","sources":["App.css"],"sourcesContent":[".App {\n  text-align: center;\n}\n\n\n.h22{\n  text-emphasis-color:blue;\n  color: slateblue;\n  \n}\n#btn56{\n  cursor: grab;\n}\n"],"names":[],"sourceRoot":""}
