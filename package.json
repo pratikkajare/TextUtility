@@ -1,6 +1,6 @@
 {
-  "homepage": "https://pratik826.github.io/my-app",
-  "name": "my-app",
+  "homepage": "https://pratik826.github.io/TextUtility",
+  "name": "TextUtility",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -62,7 +62,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b master -d build",
+    "deploy": "gh-pages -d build",
     "start": "node scripts/start.js",
     "build": "node scripts/build.js",
     "test": "node scripts/test.js"
